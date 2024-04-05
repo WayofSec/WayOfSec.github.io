@@ -1,4 +1,4 @@
-# way of security project
+# Way of Security project
 
 <i>"Projeto pessoal de estudo sobre segurança da informação."</i>
 
